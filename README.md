@@ -15,3 +15,4 @@ P@@@@Y ^5&@@@@B?.       Y@@@@P
 ?&@@@&G&@@@@@@@@@@@@@@&G?.    
  :Y&5: :!YG#&@@@@&#GY!:       
 ```
+i wouldnt install this right now because its just base arch linux
